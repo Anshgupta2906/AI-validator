@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Stripe",
+    "problem": "Businesses found it difficult to accept online payments globally due to fragmented payment systems and complex banking integrations.",
+    "solution": "Stripe provides developer-friendly APIs and financial infrastructure that allow businesses to accept payments, manage subscriptions, handle payouts, and automate financial operations.",
+    "market_size": "Global digital payments market (multi-trillion dollar opportunity).",
+    "revenue_model": "Transaction fees, billing products, payment processing, financial services, and enterprise solutions."
+  },
+  {
+    "name": "Notion",
+    "problem": "Teams and individuals used multiple disconnected tools for notes, documents, task management, and collaboration.",
+    "solution": "Notion offers an all-in-one workspace combining documents, databases, wikis, project management, AI writing, and collaboration.",
+    "market_size": "Global productivity and collaboration software market.",
+    "revenue_model": "Freemium SaaS with paid Personal, Plus, Business, and Enterprise subscriptions."
+  },
+  {
+    "name": "Canva",
+    "problem": "Professional graphic design software was expensive and difficult for non-designers.",
+    "solution": "Canva provides an intuitive drag-and-drop design platform with templates, AI-powered design tools, and collaboration features.",
+    "market_size": "Global graphic design and visual content creation market.",
+    "revenue_model": "Freemium subscriptions (Canva Pro, Teams, Enterprise), templates, and AI features."
+  },
+  {
+    "name": "Airbnb",
+    "problem": "Travelers struggled to find affordable, unique accommodations while property owners had unused living space.",
+    "solution": "Airbnb connects hosts with travelers through an online marketplace for short-term rentals and unique experiences.",
+    "market_size": "Global travel and hospitality market.",
+    "revenue_model": "Service fees charged to guests and hosts on each booking."
+  },
+  {
+    "name": "Figma",
+    "problem": "Design teams faced collaboration issues with desktop-based design software and file version conflicts.",
+    "solution": "Figma is a cloud-based collaborative design platform that enables real-time UI/UX design, prototyping, and developer handoff.",
+    "market_size": "Global design software market.",
+    "revenue_model": "Freemium SaaS subscriptions with Professional, Organization, and Enterprise plans."
+  },
+  {
+    "name": "OpenAI",
+    "problem": "Businesses and developers lacked access to powerful, production-ready artificial intelligence models.",
+    "solution": "OpenAI develops advanced AI models and APIs for text, image, audio, reasoning, coding, and automation applications.",
+    "market_size": "Global artificial intelligence software market.",
+    "revenue_model": "API usage pricing, ChatGPT subscriptions, enterprise licensing, and business solutions."
+  },
+  {
+    "name": "Rippling",
+    "problem": "Companies managed HR, payroll, IT, and employee identity across multiple disconnected systems.",
+    "solution": "Rippling unifies HR, payroll, benefits, identity management, device management, and IT automation into one platform.",
+    "market_size": "Global HR technology and workforce management software market.",
+    "revenue_model": "Subscription-based SaaS with modular pricing for HR, IT, payroll, and finance products."
+  }
+]

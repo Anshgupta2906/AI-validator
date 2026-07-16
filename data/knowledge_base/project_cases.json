@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Chat Application",
+    "tech_stack": ["React", "Node.js", "Express", "Socket.IO", "MongoDB"],
+    "skills_learned": [
+      "WebSockets",
+      "Real-time communication",
+      "Authentication",
+      "Backend APIs",
+      "Database integration"
+    ],
+    "industry_relevance": "Very High",
+    "target_companies": [
+      "Amazon",
+      "Microsoft",
+      "Flipkart",
+      "Swiggy",
+      "Zomato"
+    ]
+  },
+  {
+    "name": "RAG Document Chatbot",
+    "tech_stack": [
+      "Python",
+      "FastAPI",
+      "LangChain",
+      "FAISS",
+      "OpenAI API"
+    ],
+    "skills_learned": [
+      "Retrieval-Augmented Generation",
+      "Embeddings",
+      "Vector Databases",
+      "Prompt Engineering",
+      "LLM Integration"
+    ],
+    "industry_relevance": "Very High",
+    "target_companies": [
+      "OpenAI",
+      "Anthropic",
+      "Google DeepMind",
+      "Microsoft",
+      "Rippling"
+    ]
+  },
+  {
+    "name": "Expense Tracker",
+    "tech_stack": [
+      "React",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "skills_learned": [
+      "CRUD APIs",
+      "Database Design",
+      "Authentication",
+      "REST APIs"
+    ],
+    "industry_relevance": "High",
+    "target_companies": [
+      "JPMorgan Chase",
+      "American Express",
+      "Paytm",
+      "Razorpay"
+    ]
+  },
+  {
+    "name": "E-commerce Backend",
+    "tech_stack": [
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "skills_learned": [
+      "Backend Architecture",
+      "Caching",
+      "Authentication",
+      "Payment Integration",
+      "API Design"
+    ],
+    "industry_relevance": "Very High",
+    "target_companies": [
+      "Amazon",
+      "Flipkart",
+      "Meesho",
+      "Walmart Global Tech"
+    ]
+  },
+  {
+    "name": "Task Management System",
+    "tech_stack": [
+      "React",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "skills_learned": [
+      "Full Stack Development",
+      "REST APIs",
+      "Database Relationships",
+      "JWT Authentication"
+    ],
+    "industry_relevance": "High",
+    "target_companies": [
+      "Atlassian",
+      "Notion",
+      "Zoho",
+      "Freshworks"
+    ]
+  },
+  {
+    "name": "AI Resume Analyzer",
+    "tech_stack": [
+      "Python",
+      "FastAPI",
+      "LangChain",
+      "OpenAI API"
+    ],
+    "skills_learned": [
+      "Prompt Engineering",
+      "Resume Parsing",
+      "LLM APIs",
+      "Text Processing"
+    ],
+    "industry_relevance": "Very High",
+    "target_companies": [
+      "LinkedIn",
+      "Indeed",
+      "OpenAI",
+      "Microsoft"
+    ]
+  },
+  {
+    "name": "Patient Management System",
+    "tech_stack": [
+      "FastAPI",
+      "PostgreSQL",
+      "Pydantic"
+    ],
+    "skills_learned": [
+      "REST API Development",
+      "CRUD Operations",
+      "Data Validation",
+      "Database Integration"
+    ],
+    "industry_relevance": "Medium",
+    "target_companies": [
+      "Philips",
+      "GE Healthcare",
+      "Cerner",
+      "Oracle Health"
+    ]
+  }
+]
