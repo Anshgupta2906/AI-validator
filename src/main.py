@@ -16,8 +16,7 @@ app.add_middleware(
 )
 
 
-rag = RAGPipeline()
-llm=LLMService()
+
 
 @app.get("/health")
 def health_check():
@@ -25,6 +24,8 @@ def health_check():
 
 @app.post("/validate")
 def validate_idea(idea_input: IdeaInput):
+    rag = RAGPipeline()
+    llm = LLMService()
     # Create search query
     query = f"{idea_input.idea_name} {idea_input.description}"
 
